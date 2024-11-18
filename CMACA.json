@@ -1,0 +1,6330 @@
+[
+  {
+    "id": {
+      "dguid": "2021S0503001",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "001"
+    },
+    "name": {
+      "en": "St. John's",
+      "fr": "St. John's"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000210",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "10"
+      },
+      "name": {
+        "en": "Newfoundland and Labrador",
+        "fr": "Terre-Neuve-et-Labrador"
+      },
+      "abbr": "NL"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503205",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "205"
+    },
+    "name": {
+      "en": "Halifax",
+      "fr": "Halifax"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000212",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "12"
+      },
+      "name": {
+        "en": "Nova Scotia",
+        "fr": "Nouvelle-Écosse"
+      },
+      "abbr": "NS"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503305",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "305"
+    },
+    "name": {
+      "en": "Moncton",
+      "fr": "Moncton"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000213",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "13"
+      },
+      "name": {
+        "en": "New Brunswick",
+        "fr": "Nouveau-Brunswick"
+      },
+      "abbr": "NB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503310",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "310"
+    },
+    "name": {
+      "en": "Saint John",
+      "fr": "Saint John"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000213",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "13"
+      },
+      "name": {
+        "en": "New Brunswick",
+        "fr": "Nouveau-Brunswick"
+      },
+      "abbr": "NB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503320",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "320"
+    },
+    "name": {
+      "en": "Fredericton",
+      "fr": "Fredericton"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000213",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "13"
+      },
+      "name": {
+        "en": "New Brunswick",
+        "fr": "Nouveau-Brunswick"
+      },
+      "abbr": "NB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503408",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "408"
+    },
+    "name": {
+      "en": "Saguenay",
+      "fr": "Saguenay"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503421",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "421"
+    },
+    "name": {
+      "en": "Québec",
+      "fr": "Québec"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503433",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "433"
+    },
+    "name": {
+      "en": "Sherbrooke",
+      "fr": "Sherbrooke"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503442",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "442"
+    },
+    "name": {
+      "en": "Trois-Rivières",
+      "fr": "Trois-Rivières"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503447",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "447"
+    },
+    "name": {
+      "en": "Drummondville",
+      "fr": "Drummondville"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503462",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "462"
+    },
+    "name": {
+      "en": "Montréal",
+      "fr": "Montréal"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503505",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "505"
+    },
+    "name": {
+      "en": "Ottawa - Gatineau",
+      "fr": "Ottawa - Gatineau"
+    },
+    "province": {
+      "id": null,
+      "name": {
+        "en": "Ontario / Quebec",
+        "fr": "Ontario / Québec"
+      },
+      "abbr": null
+    },
+    "region": null
+  },
+  {
+    "id": {
+      "dguid": "2021S0503521",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "521"
+    },
+    "name": {
+      "en": "Kingston",
+      "fr": "Kingston"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503522",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "522"
+    },
+    "name": {
+      "en": "Belleville - Quinte West",
+      "fr": "Belleville - Quinte West"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503529",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "529"
+    },
+    "name": {
+      "en": "Peterborough",
+      "fr": "Peterborough"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503532",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "532"
+    },
+    "name": {
+      "en": "Oshawa",
+      "fr": "Oshawa"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503535",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "535"
+    },
+    "name": {
+      "en": "Toronto",
+      "fr": "Toronto"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503537",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "537"
+    },
+    "name": {
+      "en": "Hamilton",
+      "fr": "Hamilton"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503539",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "539"
+    },
+    "name": {
+      "en": "St. Catharines - Niagara",
+      "fr": "St. Catharines - Niagara"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503541",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "541"
+    },
+    "name": {
+      "en": "Kitchener - Cambridge - Waterloo",
+      "fr": "Kitchener - Cambridge - Waterloo"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503543",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "543"
+    },
+    "name": {
+      "en": "Brantford",
+      "fr": "Brantford"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503550",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "550"
+    },
+    "name": {
+      "en": "Guelph",
+      "fr": "Guelph"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503555",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "555"
+    },
+    "name": {
+      "en": "London",
+      "fr": "London"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503559",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "559"
+    },
+    "name": {
+      "en": "Windsor",
+      "fr": "Windsor"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503568",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "568"
+    },
+    "name": {
+      "en": "Barrie",
+      "fr": "Barrie"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503580",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "580"
+    },
+    "name": {
+      "en": "Greater Sudbury / Grand Sudbury",
+      "fr": "Greater Sudbury / Grand Sudbury"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503595",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "595"
+    },
+    "name": {
+      "en": "Thunder Bay",
+      "fr": "Thunder Bay"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503602",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "602"
+    },
+    "name": {
+      "en": "Winnipeg",
+      "fr": "Winnipeg"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000246",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "46"
+      },
+      "name": {
+        "en": "Manitoba",
+        "fr": "Manitoba"
+      },
+      "abbr": "MB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503705",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "705"
+    },
+    "name": {
+      "en": "Regina",
+      "fr": "Regina"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000247",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "47"
+      },
+      "name": {
+        "en": "Saskatchewan",
+        "fr": "Saskatchewan"
+      },
+      "abbr": "SK"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503725",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "725"
+    },
+    "name": {
+      "en": "Saskatoon",
+      "fr": "Saskatoon"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000247",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "47"
+      },
+      "name": {
+        "en": "Saskatchewan",
+        "fr": "Saskatchewan"
+      },
+      "abbr": "SK"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503810",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "810"
+    },
+    "name": {
+      "en": "Lethbridge",
+      "fr": "Lethbridge"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503825",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "825"
+    },
+    "name": {
+      "en": "Calgary",
+      "fr": "Calgary"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503830",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "830"
+    },
+    "name": {
+      "en": "Red Deer",
+      "fr": "Red Deer"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503835",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "835"
+    },
+    "name": {
+      "en": "Edmonton",
+      "fr": "Edmonton"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503915",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "915"
+    },
+    "name": {
+      "en": "Kelowna",
+      "fr": "Kelowna"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503925",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "925"
+    },
+    "name": {
+      "en": "Kamloops",
+      "fr": "Kamloops"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503930",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "930"
+    },
+    "name": {
+      "en": "Chilliwack",
+      "fr": "Chilliwack"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503932",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "932"
+    },
+    "name": {
+      "en": "Abbotsford - Mission",
+      "fr": "Abbotsford - Mission"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503933",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "933"
+    },
+    "name": {
+      "en": "Vancouver",
+      "fr": "Vancouver"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503935",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "935"
+    },
+    "name": {
+      "en": "Victoria",
+      "fr": "Victoria"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0503938",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0503",
+      "geouid": "938"
+    },
+    "name": {
+      "en": "Nanaimo",
+      "fr": "Nanaimo"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504010",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "010"
+    },
+    "name": {
+      "en": "Grand Falls-Windsor",
+      "fr": "Grand Falls-Windsor"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000210",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "10"
+      },
+      "name": {
+        "en": "Newfoundland and Labrador",
+        "fr": "Terre-Neuve-et-Labrador"
+      },
+      "abbr": "NL"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504011",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "011"
+    },
+    "name": {
+      "en": "Gander",
+      "fr": "Gander"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000210",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "10"
+      },
+      "name": {
+        "en": "Newfoundland and Labrador",
+        "fr": "Terre-Neuve-et-Labrador"
+      },
+      "abbr": "NL"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504015",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "015"
+    },
+    "name": {
+      "en": "Corner Brook",
+      "fr": "Corner Brook"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000210",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "10"
+      },
+      "name": {
+        "en": "Newfoundland and Labrador",
+        "fr": "Terre-Neuve-et-Labrador"
+      },
+      "abbr": "NL"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504105",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "105"
+    },
+    "name": {
+      "en": "Charlottetown",
+      "fr": "Charlottetown"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000211",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "11"
+      },
+      "name": {
+        "en": "Prince Edward Island",
+        "fr": "Île-du-Prince-Édouard"
+      },
+      "abbr": "PE"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504110",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "110"
+    },
+    "name": {
+      "en": "Summerside",
+      "fr": "Summerside"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000211",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "11"
+      },
+      "name": {
+        "en": "Prince Edward Island",
+        "fr": "Île-du-Prince-Édouard"
+      },
+      "abbr": "PE"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504210",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "210"
+    },
+    "name": {
+      "en": "Kentville",
+      "fr": "Kentville"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000212",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "12"
+      },
+      "name": {
+        "en": "Nova Scotia",
+        "fr": "Nouvelle-Écosse"
+      },
+      "abbr": "NS"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504215",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "215"
+    },
+    "name": {
+      "en": "Truro",
+      "fr": "Truro"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000212",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "12"
+      },
+      "name": {
+        "en": "Nova Scotia",
+        "fr": "Nouvelle-Écosse"
+      },
+      "abbr": "NS"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504220",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "220"
+    },
+    "name": {
+      "en": "New Glasgow",
+      "fr": "New Glasgow"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000212",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "12"
+      },
+      "name": {
+        "en": "Nova Scotia",
+        "fr": "Nouvelle-Écosse"
+      },
+      "abbr": "NS"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504225",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "225"
+    },
+    "name": {
+      "en": "Cape Breton",
+      "fr": "Cape Breton"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000212",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "12"
+      },
+      "name": {
+        "en": "Nova Scotia",
+        "fr": "Nouvelle-Écosse"
+      },
+      "abbr": "NS"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504328",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "328"
+    },
+    "name": {
+      "en": "Bathurst",
+      "fr": "Bathurst"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000213",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "13"
+      },
+      "name": {
+        "en": "New Brunswick",
+        "fr": "Nouveau-Brunswick"
+      },
+      "abbr": "NB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504329",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "329"
+    },
+    "name": {
+      "en": "Miramichi",
+      "fr": "Miramichi"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000213",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "13"
+      },
+      "name": {
+        "en": "New Brunswick",
+        "fr": "Nouveau-Brunswick"
+      },
+      "abbr": "NB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504330",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "330"
+    },
+    "name": {
+      "en": "Campbellton",
+      "fr": "Campbellton"
+    },
+    "province": {
+      "id": null,
+      "name": {
+        "en": "New Brunswick / Quebec",
+        "fr": "Nouveau-Brunswick / Québec"
+      },
+      "abbr": null
+    },
+    "region": null
+  },
+  {
+    "id": {
+      "dguid": "2021S0504335",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "335"
+    },
+    "name": {
+      "en": "Edmundston",
+      "fr": "Edmundston"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000213",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "13"
+      },
+      "name": {
+        "en": "New Brunswick",
+        "fr": "Nouveau-Brunswick"
+      },
+      "abbr": "NB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504403",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "403"
+    },
+    "name": {
+      "en": "Matane",
+      "fr": "Matane"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504404",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "404"
+    },
+    "name": {
+      "en": "Rimouski",
+      "fr": "Rimouski"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504405",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "405"
+    },
+    "name": {
+      "en": "Rivière-du-Loup",
+      "fr": "Rivière-du-Loup"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504406",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "406"
+    },
+    "name": {
+      "en": "Baie-Comeau",
+      "fr": "Baie-Comeau"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504410",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "410"
+    },
+    "name": {
+      "en": "Alma",
+      "fr": "Alma"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504411",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "411"
+    },
+    "name": {
+      "en": "Dolbeau-Mistassini",
+      "fr": "Dolbeau-Mistassini"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504412",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "412"
+    },
+    "name": {
+      "en": "Sept-Îles",
+      "fr": "Sept-Îles"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504423",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "423"
+    },
+    "name": {
+      "en": "Sainte-Marie",
+      "fr": "Sainte-Marie"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504428",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "428"
+    },
+    "name": {
+      "en": "Saint-Georges",
+      "fr": "Saint-Georges"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504430",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "430"
+    },
+    "name": {
+      "en": "Thetford Mines",
+      "fr": "Thetford Mines"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504437",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "437"
+    },
+    "name": {
+      "en": "Cowansville",
+      "fr": "Cowansville"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504440",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "440"
+    },
+    "name": {
+      "en": "Victoriaville",
+      "fr": "Victoriaville"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504444",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "444"
+    },
+    "name": {
+      "en": "Shawinigan",
+      "fr": "Shawinigan"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504450",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "450"
+    },
+    "name": {
+      "en": "Granby",
+      "fr": "Granby"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504452",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "452"
+    },
+    "name": {
+      "en": "Saint-Hyacinthe",
+      "fr": "Saint-Hyacinthe"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504454",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "454"
+    },
+    "name": {
+      "en": "Sorel-Tracy",
+      "fr": "Sorel-Tracy"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504456",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "456"
+    },
+    "name": {
+      "en": "Joliette",
+      "fr": "Joliette"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504465",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "465"
+    },
+    "name": {
+      "en": "Salaberry-de-Valleyfield",
+      "fr": "Salaberry-de-Valleyfield"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504467",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "467"
+    },
+    "name": {
+      "en": "Sainte-Agathe-des-Monts",
+      "fr": "Sainte-Agathe-des-Monts"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504468",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "468"
+    },
+    "name": {
+      "en": "Lachute",
+      "fr": "Lachute"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504480",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "480"
+    },
+    "name": {
+      "en": "Val-d'Or",
+      "fr": "Val-d'Or"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504481",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "481"
+    },
+    "name": {
+      "en": "Amos",
+      "fr": "Amos"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504485",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "485"
+    },
+    "name": {
+      "en": "Rouyn-Noranda",
+      "fr": "Rouyn-Noranda"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504501",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "501"
+    },
+    "name": {
+      "en": "Cornwall",
+      "fr": "Cornwall"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504502",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "502"
+    },
+    "name": {
+      "en": "Hawkesbury",
+      "fr": "Hawkesbury"
+    },
+    "province": {
+      "id": null,
+      "name": {
+        "en": "Ontario / Quebec",
+        "fr": "Ontario / Québec"
+      },
+      "abbr": null
+    },
+    "region": null
+  },
+  {
+    "id": {
+      "dguid": "2021S0504512",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "512"
+    },
+    "name": {
+      "en": "Brockville",
+      "fr": "Brockville"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504515",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "515"
+    },
+    "name": {
+      "en": "Pembroke",
+      "fr": "Pembroke"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504516",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "516"
+    },
+    "name": {
+      "en": "Petawawa",
+      "fr": "Petawawa"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504527",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "527"
+    },
+    "name": {
+      "en": "Cobourg",
+      "fr": "Cobourg"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504528",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "528"
+    },
+    "name": {
+      "en": "Port Hope",
+      "fr": "Port Hope"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504530",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "530"
+    },
+    "name": {
+      "en": "Kawartha Lakes",
+      "fr": "Kawartha Lakes"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504531",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "531"
+    },
+    "name": {
+      "en": "Centre Wellington",
+      "fr": "Centre Wellington"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504533",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "533"
+    },
+    "name": {
+      "en": "Ingersoll",
+      "fr": "Ingersoll"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504544",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "544"
+    },
+    "name": {
+      "en": "Woodstock",
+      "fr": "Woodstock"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504546",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "546"
+    },
+    "name": {
+      "en": "Tillsonburg",
+      "fr": "Tillsonburg"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504547",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "547"
+    },
+    "name": {
+      "en": "Norfolk",
+      "fr": "Norfolk"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504553",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "553"
+    },
+    "name": {
+      "en": "Stratford",
+      "fr": "Stratford"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504556",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "556"
+    },
+    "name": {
+      "en": "Chatham-Kent",
+      "fr": "Chatham-Kent"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504562",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "562"
+    },
+    "name": {
+      "en": "Sarnia",
+      "fr": "Sarnia"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504563",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "563"
+    },
+    "name": {
+      "en": "Essa",
+      "fr": "Essa"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504565",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "565"
+    },
+    "name": {
+      "en": "Wasaga Beach",
+      "fr": "Wasaga Beach"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504566",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "566"
+    },
+    "name": {
+      "en": "Owen Sound",
+      "fr": "Owen Sound"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504567",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "567"
+    },
+    "name": {
+      "en": "Collingwood",
+      "fr": "Collingwood"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504569",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "569"
+    },
+    "name": {
+      "en": "Orillia",
+      "fr": "Orillia"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504571",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "571"
+    },
+    "name": {
+      "en": "Midland",
+      "fr": "Midland"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504575",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "575"
+    },
+    "name": {
+      "en": "North Bay",
+      "fr": "North Bay"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504582",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "582"
+    },
+    "name": {
+      "en": "Elliot Lake",
+      "fr": "Elliot Lake"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504586",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "586"
+    },
+    "name": {
+      "en": "Timmins",
+      "fr": "Timmins"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504590",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "590"
+    },
+    "name": {
+      "en": "Sault Ste. Marie",
+      "fr": "Sault Ste. Marie"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504598",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "598"
+    },
+    "name": {
+      "en": "Kenora",
+      "fr": "Kenora"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504603",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "603"
+    },
+    "name": {
+      "en": "Winkler",
+      "fr": "Winkler"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000246",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "46"
+      },
+      "name": {
+        "en": "Manitoba",
+        "fr": "Manitoba"
+      },
+      "abbr": "MB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504605",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "605"
+    },
+    "name": {
+      "en": "Steinbach",
+      "fr": "Steinbach"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000246",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "46"
+      },
+      "name": {
+        "en": "Manitoba",
+        "fr": "Manitoba"
+      },
+      "abbr": "MB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504607",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "607"
+    },
+    "name": {
+      "en": "Portage la Prairie",
+      "fr": "Portage la Prairie"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000246",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "46"
+      },
+      "name": {
+        "en": "Manitoba",
+        "fr": "Manitoba"
+      },
+      "abbr": "MB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504610",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "610"
+    },
+    "name": {
+      "en": "Brandon",
+      "fr": "Brandon"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000246",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "46"
+      },
+      "name": {
+        "en": "Manitoba",
+        "fr": "Manitoba"
+      },
+      "abbr": "MB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504640",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "640"
+    },
+    "name": {
+      "en": "Thompson",
+      "fr": "Thompson"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000246",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "46"
+      },
+      "name": {
+        "en": "Manitoba",
+        "fr": "Manitoba"
+      },
+      "abbr": "MB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504710",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "710"
+    },
+    "name": {
+      "en": "Yorkton",
+      "fr": "Yorkton"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000247",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "47"
+      },
+      "name": {
+        "en": "Saskatchewan",
+        "fr": "Saskatchewan"
+      },
+      "abbr": "SK"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504715",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "715"
+    },
+    "name": {
+      "en": "Moose Jaw",
+      "fr": "Moose Jaw"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000247",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "47"
+      },
+      "name": {
+        "en": "Saskatchewan",
+        "fr": "Saskatchewan"
+      },
+      "abbr": "SK"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504720",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "720"
+    },
+    "name": {
+      "en": "Swift Current",
+      "fr": "Swift Current"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000247",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "47"
+      },
+      "name": {
+        "en": "Saskatchewan",
+        "fr": "Saskatchewan"
+      },
+      "abbr": "SK"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504735",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "735"
+    },
+    "name": {
+      "en": "North Battleford",
+      "fr": "North Battleford"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000247",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "47"
+      },
+      "name": {
+        "en": "Saskatchewan",
+        "fr": "Saskatchewan"
+      },
+      "abbr": "SK"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504745",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "745"
+    },
+    "name": {
+      "en": "Prince Albert",
+      "fr": "Prince Albert"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000247",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "47"
+      },
+      "name": {
+        "en": "Saskatchewan",
+        "fr": "Saskatchewan"
+      },
+      "abbr": "SK"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504750",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "750"
+    },
+    "name": {
+      "en": "Estevan",
+      "fr": "Estevan"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000247",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "47"
+      },
+      "name": {
+        "en": "Saskatchewan",
+        "fr": "Saskatchewan"
+      },
+      "abbr": "SK"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504755",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "755"
+    },
+    "name": {
+      "en": "Weyburn",
+      "fr": "Weyburn"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000247",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "47"
+      },
+      "name": {
+        "en": "Saskatchewan",
+        "fr": "Saskatchewan"
+      },
+      "abbr": "SK"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504805",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "805"
+    },
+    "name": {
+      "en": "Medicine Hat",
+      "fr": "Medicine Hat"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504806",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "806"
+    },
+    "name": {
+      "en": "Brooks",
+      "fr": "Brooks"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504820",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "820"
+    },
+    "name": {
+      "en": "Okotoks",
+      "fr": "Okotoks"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504821",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "821"
+    },
+    "name": {
+      "en": "High River",
+      "fr": "High River"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504826",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "826"
+    },
+    "name": {
+      "en": "Strathmore",
+      "fr": "Strathmore"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504828",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "828"
+    },
+    "name": {
+      "en": "Canmore",
+      "fr": "Canmore"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504831",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "831"
+    },
+    "name": {
+      "en": "Sylvan Lake",
+      "fr": "Sylvan Lake"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504832",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "832"
+    },
+    "name": {
+      "en": "Lacombe",
+      "fr": "Lacombe"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504833",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "833"
+    },
+    "name": {
+      "en": "Camrose",
+      "fr": "Camrose"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504840",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "840"
+    },
+    "name": {
+      "en": "Lloydminster",
+      "fr": "Lloydminster"
+    },
+    "province": {
+      "id": null,
+      "name": {
+        "en": "Alberta / Saskatchewan",
+        "fr": "Alberta / Saskatchewan"
+      },
+      "abbr": null
+    },
+    "region": null
+  },
+  {
+    "id": {
+      "dguid": "2021S0504850",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "850"
+    },
+    "name": {
+      "en": "Grande Prairie",
+      "fr": "Grande Prairie"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504860",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "860"
+    },
+    "name": {
+      "en": "Wood Buffalo",
+      "fr": "Wood Buffalo"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504865",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "865"
+    },
+    "name": {
+      "en": "Wetaskiwin",
+      "fr": "Wetaskiwin"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504905",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "905"
+    },
+    "name": {
+      "en": "Cranbrook",
+      "fr": "Cranbrook"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504907",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "907"
+    },
+    "name": {
+      "en": "Nelson",
+      "fr": "Nelson"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504910",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "910"
+    },
+    "name": {
+      "en": "Trail",
+      "fr": "Trail"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504913",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "913"
+    },
+    "name": {
+      "en": "Penticton",
+      "fr": "Penticton"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504918",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "918"
+    },
+    "name": {
+      "en": "Vernon",
+      "fr": "Vernon"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504920",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "920"
+    },
+    "name": {
+      "en": "Salmon Arm",
+      "fr": "Salmon Arm"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504934",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "934"
+    },
+    "name": {
+      "en": "Squamish",
+      "fr": "Squamish"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504936",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "936"
+    },
+    "name": {
+      "en": "Ladysmith",
+      "fr": "Ladysmith"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504937",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "937"
+    },
+    "name": {
+      "en": "Duncan",
+      "fr": "Duncan"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504939",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "939"
+    },
+    "name": {
+      "en": "Parksville",
+      "fr": "Parksville"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504940",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "940"
+    },
+    "name": {
+      "en": "Port Alberni",
+      "fr": "Port Alberni"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504943",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "943"
+    },
+    "name": {
+      "en": "Courtenay",
+      "fr": "Courtenay"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504944",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "944"
+    },
+    "name": {
+      "en": "Campbell River",
+      "fr": "Campbell River"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504945",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "945"
+    },
+    "name": {
+      "en": "Powell River",
+      "fr": "Powell River"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504950",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "950"
+    },
+    "name": {
+      "en": "Williams Lake",
+      "fr": "Williams Lake"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504952",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "952"
+    },
+    "name": {
+      "en": "Quesnel",
+      "fr": "Quesnel"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504955",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "955"
+    },
+    "name": {
+      "en": "Prince Rupert",
+      "fr": "Prince Rupert"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504965",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "965"
+    },
+    "name": {
+      "en": "Terrace",
+      "fr": "Terrace"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504970",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "970"
+    },
+    "name": {
+      "en": "Prince George",
+      "fr": "Prince George"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504975",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "975"
+    },
+    "name": {
+      "en": "Dawson Creek",
+      "fr": "Dawson Creek"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504977",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "977"
+    },
+    "name": {
+      "en": "Fort St. John",
+      "fr": "Fort St. John"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000259",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "59"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      },
+      "abbr": "BC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504990",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "990"
+    },
+    "name": {
+      "en": "Whitehorse",
+      "fr": "Whitehorse"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000260",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "60"
+      },
+      "name": {
+        "en": "Yukon",
+        "fr": "Yukon"
+      },
+      "abbr": "YT"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00016",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "6"
+      },
+      "name": {
+        "en": "Territories",
+        "fr": "Territoires"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S0504995",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0504",
+      "geouid": "995"
+    },
+    "name": {
+      "en": "Yellowknife",
+      "fr": "Yellowknife"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000261",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "61"
+      },
+      "name": {
+        "en": "Northwest Territories",
+        "fr": "Territoires du Nord-Ouest"
+      },
+      "abbr": "NT"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00016",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "6"
+      },
+      "name": {
+        "en": "Territories",
+        "fr": "Territoires"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S050524505",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0505",
+      "geouid": "24505"
+    },
+    "name": {
+      "en": "Ottawa - Gatineau (Quebec part)",
+      "fr": "Ottawa - Gatineau (partie du Québec)"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S050535505",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0505",
+      "geouid": "35505"
+    },
+    "name": {
+      "en": "Ottawa - Gatineau (Ontario part)",
+      "fr": "Ottawa - Gatineau (partie de l'Ontario)"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S050613330",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0506",
+      "geouid": "13330"
+    },
+    "name": {
+      "en": "Campbellton (New Brunswick part)",
+      "fr": "Campbellton (partie du Nouveau-Brunswick)"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000213",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "13"
+      },
+      "name": {
+        "en": "New Brunswick",
+        "fr": "Nouveau-Brunswick"
+      },
+      "abbr": "NB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S050624330",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0506",
+      "geouid": "24330"
+    },
+    "name": {
+      "en": "Campbellton (Quebec part)",
+      "fr": "Campbellton (partie du Québec)"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S050624502",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0506",
+      "geouid": "24502"
+    },
+    "name": {
+      "en": "Hawkesbury (Quebec part)",
+      "fr": "Hawkesbury (partie du Québec)"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000224",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "24"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      },
+      "abbr": "QC"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S050635502",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0506",
+      "geouid": "35502"
+    },
+    "name": {
+      "en": "Hawkesbury (Ontario part)",
+      "fr": "Hawkesbury (partie de l'Ontario)"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000235",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "35"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      },
+      "abbr": "ON"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S050647840",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0506",
+      "geouid": "47840"
+    },
+    "name": {
+      "en": "Lloydminster (Saskatchewan part)",
+      "fr": "Lloydminster (partie de la Saskatchewan)"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000247",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "47"
+      },
+      "name": {
+        "en": "Saskatchewan",
+        "fr": "Saskatchewan"
+      },
+      "abbr": "SK"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021S050648840",
+      "vintage": "2021",
+      "type": "S",
+      "schema": "0506",
+      "geouid": "48840"
+    },
+    "name": {
+      "en": "Lloydminster (Alberta part)",
+      "fr": "Lloydminster (partie de l'Alberta)"
+    },
+    "province": {
+      "id": {
+        "dguid": "2021S000248",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0002",
+        "geouid": "48"
+      },
+      "name": {
+        "en": "Alberta",
+        "fr": "Alberta"
+      },
+      "abbr": "AB"
+    },
+    "region": {
+      "id": {
+        "dguid": "2021S00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  }
+]

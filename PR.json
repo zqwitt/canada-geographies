@@ -1,0 +1,366 @@
+[
+  {
+    "id": {
+      "dguid": "2021A000011124",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0000",
+      "geouid": "11124"
+    },
+    "name": {
+      "en": "Canada",
+      "fr": "Canada"
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000210",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "10"
+    },
+    "name": {
+      "en": "Newfoundland and Labrador",
+      "fr": "Terre-Neuve-et-Labrador"
+    },
+    "abbr": "NL",
+    "region": {
+      "id": {
+        "dguid": "2021A00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000211",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "11"
+    },
+    "name": {
+      "en": "Prince Edward Island",
+      "fr": "Île-du-Prince-Édouard"
+    },
+    "abbr": "PE",
+    "region": {
+      "id": {
+        "dguid": "2021A00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000212",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "12"
+    },
+    "name": {
+      "en": "Nova Scotia",
+      "fr": "Nouvelle-Écosse"
+    },
+    "abbr": "NS",
+    "region": {
+      "id": {
+        "dguid": "2021A00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000213",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "13"
+    },
+    "name": {
+      "en": "New Brunswick",
+      "fr": "Nouveau-Brunswick"
+    },
+    "abbr": "NB",
+    "region": {
+      "id": {
+        "dguid": "2021A00011",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "1"
+      },
+      "name": {
+        "en": "Atlantic",
+        "fr": "Atlantique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000224",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "24"
+    },
+    "name": {
+      "en": "Quebec",
+      "fr": "Québec"
+    },
+    "abbr": "QC",
+    "region": {
+      "id": {
+        "dguid": "2021A00012",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "2"
+      },
+      "name": {
+        "en": "Quebec",
+        "fr": "Québec"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000235",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "35"
+    },
+    "name": {
+      "en": "Ontario",
+      "fr": "Ontario"
+    },
+    "abbr": "ON",
+    "region": {
+      "id": {
+        "dguid": "2021A00013",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "3"
+      },
+      "name": {
+        "en": "Ontario",
+        "fr": "Ontario"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000246",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "46"
+    },
+    "name": {
+      "en": "Manitoba",
+      "fr": "Manitoba"
+    },
+    "abbr": "MB",
+    "region": {
+      "id": {
+        "dguid": "2021A00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000247",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "47"
+    },
+    "name": {
+      "en": "Saskatchewan",
+      "fr": "Saskatchewan"
+    },
+    "abbr": "SK",
+    "region": {
+      "id": {
+        "dguid": "2021A00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000248",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "48"
+    },
+    "name": {
+      "en": "Alberta",
+      "fr": "Alberta"
+    },
+    "abbr": "AB",
+    "region": {
+      "id": {
+        "dguid": "2021A00014",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "4"
+      },
+      "name": {
+        "en": "Prairies",
+        "fr": "Prairies"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000259",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "59"
+    },
+    "name": {
+      "en": "British Columbia",
+      "fr": "Colombie-Britannique"
+    },
+    "abbr": "BC",
+    "region": {
+      "id": {
+        "dguid": "2021A00015",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "5"
+      },
+      "name": {
+        "en": "British Columbia",
+        "fr": "Colombie-Britannique"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000260",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "60"
+    },
+    "name": {
+      "en": "Yukon",
+      "fr": "Yukon"
+    },
+    "abbr": "YT",
+    "region": {
+      "id": {
+        "dguid": "2021A00016",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "6"
+      },
+      "name": {
+        "en": "Territories",
+        "fr": "Territoires"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000261",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "61"
+    },
+    "name": {
+      "en": "Northwest Territories",
+      "fr": "Territoires du Nord-Ouest"
+    },
+    "abbr": "NT",
+    "region": {
+      "id": {
+        "dguid": "2021A00016",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "6"
+      },
+      "name": {
+        "en": "Territories",
+        "fr": "Territoires"
+      }
+    }
+  },
+  {
+    "id": {
+      "dguid": "2021A000262",
+      "vintage": "2021",
+      "type": "A",
+      "schema": "0002",
+      "geouid": "62"
+    },
+    "name": {
+      "en": "Nunavut",
+      "fr": "Nunavut"
+    },
+    "abbr": "NU",
+    "region": {
+      "id": {
+        "dguid": "2021A00016",
+        "vintage": "2021",
+        "type": "A",
+        "schema": "0001",
+        "geouid": "6"
+      },
+      "name": {
+        "en": "Territories",
+        "fr": "Territoires"
+      }
+    }
+  }
+]
